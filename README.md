@@ -29,10 +29,12 @@ ________________________________________
 *Technical Details* :
 
 1.	Host Server :-  
+
               a.-> Hostinger   – MySQL DB
               b.-> Hostname    - ftp.hosting619.96.lt
 
 2.	Languages and Technologies Used :
+
               a.Languages         –> Java, PHP( For backend and API’s), HTML,CSS,JavaScript( For Web Admin Panel )
               b.Technologies      –> Android Studio
               c.Framework/Library –> Slim for API’s, Volley for Networking , Facebook Kit for Phone No. Verification
